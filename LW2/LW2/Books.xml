@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Books>
+  <Book
+    Name = "Чорний обеліск"
+    Author = "Еріх Марія Ремарк"
+    Genre = "Роман"
+    PageAmount = "315"
+    Overwhelm = "Твердий"
+    Edition = "Ексмо"
+    Price = "349">
+  </Book>
+  <Book
+    Name = "Три Товариши"
+    Author = "Еріх Марія Ремарк"
+    Genre = "Роман"
+    PageAmount = "255"
+    Overwhelm = "М’який"
+    Edition = "Альфа-Книга"
+    Price = "159">
+  </Book>
+  <Book
+    Name = "Чума"
+    Author = "Альбер Камю"
+    Genre = "Екзістенціалізм"
+    PageAmount = "400"
+    Overwhelm = "Твердий"
+    Edition = "РІППОЛ-Класік"
+    Price = "599">
+  </Book>
+  <Book
+    Name = "Незнайомець"
+    Author = "Альбер Камю"
+    Genre = "Повість"
+    PageAmount = "95"
+    Overwhelm = "М’який"
+    Edition = "Ексмо"
+    Price = "99">
+  </Book>
+  <Book
+    Name = "Нудота"
+    Author = "Жан-Поль Сартр"
+    Genre = "Екзістенціалізм"
+    PageAmount = "299"
+    Overwhelm = "Твердий"
+    Edition = "Альфа-Книга"
+    Price = "299">
+  </Book>
+  <Book
+    Name = "Чемодан"
+    Author = "Сергій Довлатов"
+    Genre = "Збірник оповіданнь"
+    PageAmount = "115"
+    Overwhelm = "М’який"
+    Edition = "РІППОЛ-Класік"
+    Price = "149">
+  </Book>
+  <Book
+    Name = "Іноземка"
+    Author = "Сергій Довлатов"
+    Genre = "Повість"
+    PageAmount = "99"
+    Overwhelm = "М’який"
+    Edition = "Альфа-Книга"
+    Price = "89">
+  </Book>
+  <Book
+    Name = "Стіна"
+    Author = "Жан-Поль Сартр"
+    Genre = "Збірник оповіданнь"
+    PageAmount = "510"
+    Overwhelm = "Твердий"
+    Edition = "Ексмо"
+    Price = "699">
+  </Book>
+  <Book
+    Name = "Колір Чаклунства"
+    Author = "Террі Пратчетт"
+    Genre = "Фентезі"
+    PageAmount = "265"
+    Overwhelm = "М’який"
+    Edition = "РІППОЛ-Класік"
+    Price = "199">
+  </Book>
+  <Book
+    Name = "Володар Перснів: Дві Вежі"
+    Author = "Джон Толкін"
+    Genre = "Фентезі"
+    PageAmount = "910"
+    Overwhelm = "Твердий"
+    Edition = "Ексмо"
+    Price = "999">
+  </Book>
+  <Book
+    Name = "Хоббіт: Туди й Назад"
+    Author = "Джон Толкін"
+    Genre = "Фентезі"
+    PageAmount = "855"
+    Overwhelm = "Твердий"
+    Edition = "Ексмо"
+    Price = "899">
+  </Book>
+  <Book
+    Name = "Віщі Сестри"
+    Author = "Террі Пратчетт"
+    Genre = "Фентезі"
+    PageAmount = "195"
+    Overwhelm = "Твердий"
+    Edition = "РІППОЛ-Класік"
+    Price = "305">
+  </Book>
+  </Books>
+  
