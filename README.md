@@ -5,5 +5,5 @@ This is some of filtering Windows form application.
 It uses an XML file which (in this case) is a book list and due to filters it returnes a corresponding result.
 There are three sorts of possible search-strategy (in a code it represents a strategy-pattern).
 To test this program on your PC, you should change some code in Form1.cs (the path to an XML file).
-In additipn you can save the current filtered result in a HTML format.
+In addition you can save the current filtered result in HTML format.
 Some screenshots are attached for better understanding.
